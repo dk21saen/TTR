@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Meeples
+comment0.text=\r\n\ Creates\ each\ meeple\ object\ and\ places\ each\ meeple\ into\ an\ \r\n\ array\ of\ meeples(or\ "bag")\ with\ assigned\ color\ and\ picture.\r\n\ \r\n\ \r\n\ @author\ Ashley\ Hughes,\ Justyn\ McHarg,\ Devante\ Saenger,\ \r\n\ Collin\ Adams,\ Dylan\ Lane\r\n\ \r\n\ @version\ Spring\ 2018\r\n
+comment1.params=
+comment1.target=Meeples()
+comment1.text=\r\n\ Constructor\ for\ Meeples.\ Places\ each\ created\r\n\ meeple\ into\ an\ array\ of\ meeples.\r\n
+comment2.params=
+comment2.target=void\ returnMeeples()
+comment2.text=\r\n\ Prints\ the\ array\ of\ all\ the\ meeples\ with\ its'\ \r\n\ correspnding\ color\ or\ "Meeple\ Drawn"\ if\ that\ \r\n\ meeple\ has\ been\ drawn\ from\ the\ array("bag").\r\n
+comment3.params=
+comment3.target=void\ shuffle()
+comment3.text=\r\n\ Shuffles\ the\ array\ of\ meeples.\r\n
+comment4.params=
+comment4.target=Meeple\ chooseMeeple()
+comment4.text=\r\n\ Selects\ a\ meeple\ out\ of\ the\ array\ of\ meeples.\r\n\ Informs\ if\ the\ array\ of\ meeples\ is\ empty.\r\n\ Sets\ the\ chosen\ meeple\ in\ the\ array\ to\ null.\r\n\ @return\ Meeple-\ chosen\ meeple\ or\ empty\r\n\ if\ no\ meeples\ are\ left\r\n
+comment5.params=m
+comment5.target=void\ shiftMeeples(Meeple[])
+comment5.text=\r\n\ Shifts\ the\ meeples\ in\ the\ bag\ when\ one\ meeple\r\n\ was\ previously\ drawm.\ Adss\ the\ null\ meeple\ to\ the\ back\ of\ the\ array\r\n\ @param\ Meeple[]\ -\ meeples\r\n
+comment6.params=pic
+comment6.target=java.lang.String\ returnImage(java.lang.String)
+comment6.text=\r\n\ Returns\ the\ image\ of\ the\ meeple.\r\n\ @param\ String\ -\ pic(picture)\r\n\ @returns\ String\ -\ image\ of\ the\ meeple\r\n
+numComments=7

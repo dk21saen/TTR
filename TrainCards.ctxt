@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=TrainCards
+comment0.text=\r\n\ This\ class\ creates\ an\ array\ (deck)\ of\ train\ cards\ with\ their\ specified\r\n\ color\ and\ picture.\ \r\n\ \r\n\ @author\ Ashley\ Hughes,\ Justyn\ McHarg,\ Devante\ Saenger,\ \r\n\ Collin\ Adams,\ Dylan\ Lane\r\n\ \r\n\ @version\ Spring\ 2018\r\n
+comment1.params=
+comment1.target=TrainCards()
+comment1.text=\ \r\n\ Constructor\ for\ TrainCards.\ Creates\ all\ \r\n\ train\ cards\ and\ adds\ them\ to\ an\ array.\r\n
+comment2.params=
+comment2.target=void\ returnDeckOfCards()
+comment2.text=\r\n\ Prints\ the\ array\ of\ cards\ if\ it\ has\ not\ already\ been\ dealt.\r\n\ \r\n
+comment3.params=
+comment3.target=void\ shuffle()
+comment3.text=\r\n\ Shuffles\ the\ array(deck)\ of\ train\ cards.\ \r\n
+comment4.params=
+comment4.target=TrainCard\ dealCard()
+comment4.text=\r\n\ Deals\ the\ card\ at\ the\ front\ of\ the\ array.\r\n\ Dealt\ card\ is\ set\ to\ null\ and\ shifted\ to\ \r\n\ back\ of\ the\ array.\r\n\ @return\ TrainCard-\ train\ card\r\n
+comment5.params=t
+comment5.target=void\ shiftCardsinDeck(TrainCard[])
+comment5.text=\r\n\ Shifts\ the\ cards\ in\ the\ deck\ when\ a\ card\ is\ dealt\r\n\ and\ set\ to\ null.\r\n\ @param\ TrainCard[]-\ array\ of\ train\ cards\r\n
+comment6.params=s\ p
+comment6.target=void\ addCard(java.lang.String,\ java.lang.String)
+comment6.text=\r\n\ Adds\ a\ train\ card\ back\ into\ the\ array\ of\ traincards\ at\r\n\ the\ location\ of\ the\ first\ instance\ of\ a\ null\ train\ card.\r\n\ @param\ String-\ color,\ String\ picture.\r\n
+numComments=7

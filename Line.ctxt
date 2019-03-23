@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Line
+comment0.text=\r\n\ This\ class\ creates\ Line\ objects\ with\ parameters\r\n\ such\ as\ x\ and\ y\ locations,\ and\ color.\r\n\r\n\ @author\ Ashley\ Hughes,\ Justyn\ McHarg,\ Devante\ Saenger,\ \r\n\ Collin\ Adams,\ Dylan\ Lane\ \r\n\ \r\n\ @version\ Spring\ 2018\r\n
+comment1.params=x1\ y1\ x2\ y2\ c
+comment1.target=Line(int,\ int,\ int,\ int,\ java.awt.Color)
+comment1.text=\r\n\ Constructor\ for\ Line.\r\n\ @param\ int\ x1(start\ x\ location),\ int\ y1(start\ y\ location),\ \r\n\ int\ x2(end\ x\ location),\ int\ y2(end\ y\ location),\ and\ Color-c(Color).\r\n
+numComments=2

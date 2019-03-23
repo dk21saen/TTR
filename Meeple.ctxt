@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Meeple
+comment0.text=\r\n\ This\ class\ creates\ meeples\ which\ are\ then\ used\ to\ play\ the\ game\r\n\ with\ paramters\ color\ and\ picture.\r\n\ \r\n\ @author\ Ashley\ Hughes,\ Justyn\ McHarg,\ Devante\ Saenger,\ \r\n\ Collin\ Adams,\ Dylan\ Lane\r\n\ \r\n\ @version\ Spring\ 2018\r\n
+comment1.params=c\ pic
+comment1.target=Meeple(java.lang.String,\ java.lang.String)
+comment1.text=\r\n\ Contructor\ for\ Meeple.\r\n\ @param\ String-\ c(color),\ String\ pic(picture).\r\n
+comment2.params=
+comment2.target=java.lang.String\ getColor()
+comment2.text=\r\n\ Returns\ the\ color\ of\ the\ meeple.\r\n\ @return\ String-\ color.\r\n
+comment3.params=
+comment3.target=java.lang.String\ getPicture()
+comment3.text=\r\n\ Returns\ the\ picture\ of\ the\ meeple.\r\n\ @return\ String-\ pic.\r\n
+numComments=4

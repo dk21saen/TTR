@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Cities
+comment0.text=\r\n\ Creates\ city\ objects\ and\ adds\ the\ city\ to\ an\ array\ of\ cities\ in\ Germany\r\n\ with\ correct\ xy-coordinates,\ names,\ and\ number\ of\ meeples\ allowed.\r\n\ Meeples\ are\ added\ to\ the\ cities.\r\n\ \r\n\ @author\ Ashley\ Hughes,\ Justyn\ McHarg,\ Devante\ Saenger,\ \r\n\ Collin\ Adams,\ Dylan\ Lane\r\n\ \r\n\ @version\ Spring\ 2018\r\n
+comment1.params=
+comment1.target=Cities()
+comment1.text=\r\n\ Cities\ constructor.\ Adds\ individual\ cities\ to\ the\ array\ of\ \r\n\ cities.\r\n\ \r\n
+numComments=2

@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=TrainCard
+comment0.text=\r\n\ This\ class\ creates\ a\ train\ card\ ticket\ with\ parameters\ \r\n\ color\ and\ picture.\r\n\ \r\n\ @author\ Ashley\ Hughes,\ Justyn\ McHarg,\ Devante\ Saenger,\ \r\n\ Collin\ Adams,\ Dylan\ Lane\r\n\ \r\n\ @version\ Spring\ 2018\r\n
+comment1.params=c\ p
+comment1.target=TrainCard(java.lang.String,\ java.lang.String)
+comment1.text=\r\n\ TrainCard\ Constructor.\r\n\ @param\ String\ -\ c(color),\ String\ -\ p(picture).\ \r\n
+comment2.params=
+comment2.target=java.lang.String\ getColor()
+comment2.text=\ \r\n\ Returns\ the\ color\ of\ the\ train\ card.\r\n\ @return\ String\ -\ color\r\n
+comment3.params=
+comment3.target=java.lang.String\ getPic()
+comment3.text=\ \r\n\ Returns\ the\ picture\ of\ the\ train\ card.\r\n\ @return\ String\ -\ picture\r\n
+numComments=4

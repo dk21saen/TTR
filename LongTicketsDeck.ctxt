@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=LongTicketsDeck
+comment0.text=\r\n\ This\ class\ creates\ an\ array(deck)\ of\ long\ destination\ tickets\ with\r\n\ correct\ locations,\ destinations,\ colors,\ lengths,\ and\ pictures.\ \r\n\ \r\n\ @author\ Ashley\ Hughes,\ Justyn\ McHarg,\ Devante\ Saenger,\ \r\n\ Collin\ Adams,\ Dylan\ Lane\ \r\n\ \r\n\ @version\ Spring\ 2018\r\n
+comment1.params=
+comment1.target=LongTicketsDeck()
+comment1.text=\r\n\ Constructor\ for\ LongTicketsDeck.\ Creates\ array\ of\ \r\n\ long\ destination\ tickets.\r\n
+comment2.params=
+comment2.target=void\ returnDeckOfCards()
+comment2.text=\r\n\ Prints\ out\ the\ deck\ of\ cards,\ or\ null\ if\ \r\n\ the\ card\ has\ already\ been\ dealt.\r\n
+comment3.params=
+comment3.target=void\ shuffle()
+comment3.text=\r\n\ Shuffles\ the\ deck\ of\ long\ destination\ tickets.\r\n
+comment4.params=
+comment4.target=Ticket\ dealCard()
+comment4.text=\r\n\ Deals\ the\ card\ from\ the\ long\ destination\r\n\ ticket\ array.\ Sets\ the\ card\ that\ was\ dealt\r\n\ to\ null\ and\ shifts\ that\ null\ card\ to\r\n\ the\ back\ of\ the\ array.\ \r\n\ @return\ Ticket-\ dealt\ ticket\r\n
+comment5.params=t
+comment5.target=void\ shiftCardsinDeck(Ticket[])
+comment5.text=\r\n\ Shifts\ the\ cards\ in\ the\ deck\ if\ there\ is\ a\ null\ card\r\n\ not\ already\ in\ the\ back\ of\ the\ array.\ \r\n\ @param\ Ticket[]\ -\ tickets\r\n
+comment6.params=l\ loc\ des\ c\ p
+comment6.target=void\ addCard(int,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment6.text=\r\n\ Adds\ a\ card\ back\ into\ the\ array\ of\ long\ destination\ tickets\r\n\ at\ the\ first\ instance\ of\ a\ null\ card\ in\ the\ array.\r\n\ @param\ int-\ l(length),\ String\ loc(location),\ \r\n\ String\ des(destination),\ String\ c(color),\ String\ p(picture).\ \r\n
+comment7.params=t
+comment7.target=void\ addCard(Ticket)
+comment7.text=\r\n\ Adds\ the\ ticket\ back\ into\ the\ array\ at\ the\ first\ instance\r\n\ of\ a\ null\ in\ that\ array.\r\n\ @param\ Ticket-t(long\ destination\ ticket).\r\n
+numComments=8

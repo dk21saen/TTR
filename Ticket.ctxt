@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Ticket
+comment0.text=\r\n\ This\ class\ creates\ a\ destination\ ticket\ with\ parameters\ length,\r\n\ location,\ destination,\ color,\ and\ picture.\r\n\ \r\n\ @author\ Ashley\ Hughes,\ Justyn\ McHarg,\ Devante\ Saenger,\ \r\n\ Collin\ Adams,\ Dylan\ Lane\ \r\n\ @version\ Spring\ 2018\r\n
+comment1.params=l\ loc\ des\ c\ p
+comment1.target=Ticket(int,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment1.text=\r\n\ Constructor\ for\ Ticket.\ Creates\ destination\ ticket.\r\n\ @param\ int-\ l(length),\ String\ loc(location),\ \r\n\ String\ des(destination),\ String\ c(color),\ String\ p(picture).\r\n
+comment2.params=
+comment2.target=int\ getLength()
+comment2.text=\r\n\ Returns\ the\ length\ of\ the\ ticket.\r\n\ @return\ int-\ length\r\n
+comment3.params=
+comment3.target=java.lang.String\ getLocation()
+comment3.text=\r\n\ Returns\ the\ location\ of\ the\ ticket.\r\n\ @return\ String-\ location\r\n
+comment4.params=
+comment4.target=java.lang.String\ getDestination()
+comment4.text=\r\n\ Returns\ the\ destination\ of\ the\ ticket.\r\n\ @return\ String-\ destination\r\n
+comment5.params=
+comment5.target=java.lang.String\ getColor()
+comment5.text=\r\n\ Returns\ the\ color\ of\ the\ ticket.\r\n\ @return\ String-\ color\r\n
+comment6.params=
+comment6.target=java.lang.String\ getPic()
+comment6.text=\r\n\ Returns\ the\ pic\ of\ the\ ticket.\r\n\ @return\ String-\ pic\r\n
+comment7.params=
+comment7.target=java.lang.String\ getInfo()
+comment7.text=\r\n\ Returns\ the\ info\ of\ the\ ticket.\r\n\ @return\ String-\ information\r\n
+numComments=8

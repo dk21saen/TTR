@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=City
+comment0.text=\r\n\ This\ class\ creates\ a\ new\ city\ with\ parameters\ such\ as\ its'\ name,\ \r\n\ xy-coordinates\ and\ number\ of\ meeples\ that\ are\ allowed\ to\ be\ \r\n\ placed\ and\ assigned\ to\ the\ particular\ city.\r\n\r\n\ @author\ Ashley\ Hughes,\ Justyn\ McHarg,\ Devante\ Saenger,\ \r\n\ Collin\ Adams,\ Dylan\ Lane\r\n\ @version\ Spring\ 2018\r\n
+comment1.params=n\ sx\ ex\ sy\ ey\ num
+comment1.target=City(java.lang.String,\ int,\ int,\ int,\ int,\ int)
+comment1.text=\r\n\ City\ constructor.\ Creates\ city\r\n\ @param\ String\ n\ -\ name\ of\ city,\ int\ sx\ -\ start\ x,\ \r\n\ int\ ex\ -\ end\ x,\ int\ sy\ -\ start\ y,\ int\ \ ey\ -\ end\ y,\ \r\n\ int\ num\ -\ number\ of\ meeples\r\n\ \r\n
+comment2.params=
+comment2.target=void\ addMeeples()
+comment2.text=\r\n\ Adds\ the\ meeples\ from\ the\ the\ city's\ array\ of\ meeples\ \r\n\ to\ the\ gameBoard\ city.\r\n\ \r\n
+numComments=3

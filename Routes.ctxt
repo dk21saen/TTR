@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Routes
+comment0.text=\r\n\ Creates\ route\ objects\ and\ adds\ them\ to\ an\ array\ of\ routes\ with\r\n\ correct\ names\ of\ the\ location\ and\ destination,\ length,\ color,\ and\r\n\ route\ type.\r\n\r\n\ @author\ Ashley\ Hughes,\ Justyn\ McHarg,\ Devante\ Saenger,\ \r\n\ Collin\ Adams,\ Dylan\ Lane\r\n\ \r\n\ @version\ Spring\ 2018\r\n
+comment1.params=
+comment1.target=Routes()
+comment1.text=\r\n\ Routes\ contructor.\ Creates\ routes\ and\ adds\ them\r\n\ to\ the\ array\ of\ routes.\r\n
+comment2.params=loc\ des
+comment2.target=int\ getLength(java.lang.String,\ java.lang.String)
+comment2.text=\r\n\ Returns\ the\ length\ of\ the\ route.\r\n\ @param\ String-loc,\ String-des\r\n\ @return\ the\ length\ of\ the\ route\r\n\ with\ the\ particlar\ start\ city\ and\ end\ city.\ \r\n
+comment3.params=
+comment3.target=void\ setToSingleRoute()
+comment3.text=\r\n\ Sets\ the\ route\ to\ a\ single\ route.\r\n
+numComments=4
